@@ -1,2 +1,2 @@
-touch file3.txt
+echo "hayi" > file3.txt
 git add .
