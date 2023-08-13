@@ -1,2 +1,2 @@
 touch file3.txt
-git add .
+git add ./file3.txt
