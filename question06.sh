@@ -1,2 +1,2 @@
-git add file*
+git add .
 git commit -m "question06"
